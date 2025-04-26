@@ -57,6 +57,6 @@ human: python main_human.py
 
 ![Final model](https://github.com/mdx-box/LLM_for_robot/blob/main/Figure/Iss_final.jpg)
 
-7. The hardware requirement of Isaac Sim is relatively high. In the future, we will use ![Genesis][https://github.com/Genesis-Embodied-AI/Genesis] to codnuct our task!
+7. The hardware requirement of Isaac Sim is relatively high. In the future, we will use ![Genesis](https://github.com/Genesis-Embodied-AI/Genesis) to codnuct our task!
 
 
